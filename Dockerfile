@@ -7,4 +7,4 @@ USER root
 
 RUN apt-get update
 
-RUN pip install altair==4.1.0
+RUN pip install altair_saver
